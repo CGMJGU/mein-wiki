@@ -1,0 +1,10 @@
+site_name: Mein Wiki
+
+theme:
+  name: material
+  language: de
+  palette:
+    primary: indigo
+
+nav:
+  - Start: index.md
