@@ -1,6 +1,6 @@
 # `.pptx` – Microsoft PowerPoint Präsentation
 
-<img src="assets/powerpoint-logo.jpg" alt="Microsoft PowerPoint Logo" width="64" style="float: left; margin: 0 20px 10px 0;">
+<img src="../assets/powerpoint-logo.jpg" alt="Microsoft PowerPoint Logo" width="64" style="float: left; margin: 0 20px 10px 0;">
 
 <br clear="left"/>
 
