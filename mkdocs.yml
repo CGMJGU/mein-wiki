@@ -8,3 +8,5 @@ theme:
 
 nav:
   - Start: index.md
+  - Dokumentformate: dokumentformate.md
+  - Docx: docx.md
