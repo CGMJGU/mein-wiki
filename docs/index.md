@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# Willkommen im Wiki 👋
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Dieses Wiki begleitet euch durch die heutige Stunde. Hier findet ihr alle Informationen die ihr braucht um die Arbeitsaufträge zu lösen.
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Wie funktioniert dieses Wiki?
 
-## Project layout
+In der **linken Seitenleiste** findest du zwei Bereiche:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- 📄 **Dateiformate** – Informationen zu einzelnen Dateitypen wie `.docx`, `.pdf`, `.jpg` und mehr
+- 📤 **Dateien austauschen** – Übersicht über verschiedene Wege Dateien zu versenden oder zu teilen
+
+Klappe die Menüs auf und wähle das Thema das du gerade brauchst.
+
+---
+
+*Viel Erfolg! 🚀*

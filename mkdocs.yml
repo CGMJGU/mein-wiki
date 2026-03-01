@@ -8,5 +8,17 @@ theme:
 
 nav:
   - Start: index.md
-  - Dokumentformate: dokumentformate.md
-  - Docx: docx.md
+  - Dateiformate:
+    - DOCX: docx.md
+    - PDF: pdf.md
+    - JPG: jpg.md
+    - TXT: txt.md
+    - PPTX: pptx.md
+    - XLXS: xlsx.md
+    
+  - Dateien austauschen:
+    - E-Mail: email.md
+    - Cloud: cloud.md
+    - Transferdienste: transferdienste.md
+    - USB: usb.md
+  
